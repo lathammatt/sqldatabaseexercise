@@ -1,0 +1,25 @@
+{
+  "name": "sqldatabaseexercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lathammatt/sqldatabaseexercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lathammatt/sqldatabaseexercise/issues"
+  },
+  "homepage": "https://github.com/lathammatt/sqldatabaseexercise#readme",
+  "dependencies": {
+    "bookshelf": "^0.10.2",
+    "knex": "^0.12.5",
+    "sqlite3": "^3.1.6"
+  }
+}
