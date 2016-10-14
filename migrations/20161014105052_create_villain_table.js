@@ -6,7 +6,7 @@ module.exports.up = (knex, Promise) =>
     table.string('name')
     table.string('weapon')
     table.string('armor')
-    table.string('special move')
+    table.string('special_move')
     table.string('strength')
     table.string('health')
     table.string('weakness')
